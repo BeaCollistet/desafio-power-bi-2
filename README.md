@@ -59,7 +59,7 @@ O desafio pede a publicação no Power BI Service. Não consegui publicar porque
 
 ## 🧠 O que aprendi
 
-Aprendi a como criar um layout, usar segmentadores, e a implementar botões de navegação e indicadores.
+Aprendi a criar um layout, usar segmentadores e implementar botões de navegação e indicadores.
 
 ## 🔗 Referências
 
